@@ -7,8 +7,14 @@
 Taxi Hyzmaty
 Gije-gündüziň islendik wagtynda taksi sargydyny ediň!
 Programmany şu ýerden ýükläp alyň
-android -> https://play.google.com/store/apps/details?id=com.takykcheshme.onlinetaxi
-ios -> https://apps.apple.com/us/app/onla%C3%BDn-taksi/id6444418822
+
+android /*
+https://play.google.com/store/apps/details?id=com.takykcheshme.onlinetaxi
+*/
+
+ios /*
+https://apps.apple.com/us/app/onla%C3%BDn-taksi/id6444418822
+*/
 
 Taksi hyzmatlaryny onlaýn usulynda sargyt etmek -> https://auh.com.tm/item/153
 
