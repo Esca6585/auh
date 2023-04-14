@@ -4,8 +4,8 @@
 ["Awtomobil ulag hyzmaty" AGPJ](https://auh.com.tm) click link go to official website
 [auh.com.tm](https://auh.com.tm)
 ***********************************************************************************************************
-# ![logo_turkmenportal](https://user-images.githubusercontent.com/64286632/231983058-7c796c16-0c38-4bd8-b51c-855face043bf.png) -> https://turkmenportal.com 
-Hyzmatdaş Turkmenportal HJ
+# ![logo_turkmenportal](https://user-images.githubusercontent.com/64286632/231983058-7c796c16-0c38-4bd8-b51c-855face043bf.png)
+Hyzmatdaş [Turkmenportal HJ](https://turkmenportal.com)
 ***********************************************************************************************************
 Taxi Hyzmaty
 Gije-gündüziň islendik wagtynda taksi sargydyny ediň!
