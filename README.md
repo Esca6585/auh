@@ -1,11 +1,10 @@
-![auh_logo_1](https://user-images.githubusercontent.com/64286632/231982445-62a070e9-f616-406b-a31b-e75be5442bf7.png) ![logo_turkmenportal](https://user-images.githubusercontent.com/64286632/231983058-7c796c16-0c38-4bd8-b51c-855face043bf.png)
-
+![auh_logo_1](https://user-images.githubusercontent.com/64286632/231982445-62a070e9-f616-406b-a31b-e75be5442bf7.png) 
 ***********************************************************************************************************
 # "Awtomobil ulag hyzmaty" AGPJ auh
 ["Awtomobil ulag hyzmaty" AGPJ](https://auh.com.tm) click link go to official website
 [auh.com.tm](https://auh.com.tm)
 ***********************************************************************************************************
-# Turkmenportal HJ -> https://turkmenportal.com
+# ![logo_turkmenportal](https://user-images.githubusercontent.com/64286632/231983058-7c796c16-0c38-4bd8-b51c-855face043bf.png) Turkmenportal HJ -> https://turkmenportal.com 
 ***********************************************************************************************************
 Taxi Hyzmaty
 Gije-gündüziň islendik wagtynda taksi sargydyny ediň!
